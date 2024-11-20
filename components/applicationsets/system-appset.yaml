@@ -6,7 +6,7 @@ metadata:
 spec:
   generators:
   - git:
-      repoURL: https://github.com/kdubois/progressive-delivery
+      repoURL: https://github.com/blues-man/progressive-delivery
       revision: main
       directories:
       - path: system/*
